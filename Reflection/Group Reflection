@@ -1,1 +1,10 @@
+Audruino Reflection
 
+From very limited initial knowledge about microprocessors, we learned how to import software to the hardware (microprocessor)
+and how to wire the processor so that an LED would flash on and off continuously. We also learnt how to incorporate 
+a button to control the state of the LED and wrote code from scratch into the given code to debounce the button. We 
+learnt that without the debouncing the button the LED, when pushing the button to change the state of the LED, the LED
+would sometime revert to the previous state (as in the LED would switch states briefly change before reverting to the
+state before the button was pushed). Although our debounce code we wrote works, we never fully comprehended why it worked
+with a certain value and not others but none the less we completed the challenge. Through this experience we have gained a
+much richer understanding of the relations between software and hardware.
